@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @raphael08 from Tanzania 
 - 👀 I’m interested in backend and Mobile App development 
-- 🌱 I’m currently learning Microserveice Technology
 - 💞️ I’m good at        
      - system development using Django and laravel Technology
      - Mobile development using Flutter and Java
      - API developent and Intergration
      - IOT
+     - ML and AI
+     - Microservices Development
+     - website development
 - 📫 How to reach me      
     - rsiphael@gmail.com
     - +255 655594998
